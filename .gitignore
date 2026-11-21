@@ -1,0 +1,19 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# Large or re-creatable data (rebuilt by the scripts; raw data downloaded from Cricsheet)
+data/raw/
+data/interim/
+data/clean/
+
+# Personal interview prep (not for GitHub)
+docs/*Study_Guide*.pdf
+
+# Windows system files
+desktop.ini
+Thumbs.db
