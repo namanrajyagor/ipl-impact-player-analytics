@@ -1,0 +1,558 @@
+match_id,innings,over,team,player_in,player_out,reason,balls_faced,balls_bowled,role_in_match
+1359475,2,1,Chennai Super Kings,TU Deshpande,AT Rayudu,impact_player,0.0,20.0,Bowled only
+1359475,2,4,Gujarat Titans,B Sai Sudharsan,KS Williamson,impact_player,17.0,0.0,Batted only
+1359476,2,1,Punjab Kings,R Dhawan,PBB Rajapaksa,impact_player,0.0,6.0,Bowled only
+1359476,2,3,Kolkata Knight Riders,VR Iyer,CV Varun,impact_player,28.0,0.0,Batted only
+1359477,1,20,Delhi Capitals,Aman Hakim Khan,KK Ahmed,impact_player,5.0,0.0,Batted only
+1359477,1,20,Lucknow Super Giants,K Gowtham,A Badoni,impact_player,1.0,24.0,Batted and bowled
+1359478,2,10,Sunrisers Hyderabad,Abdul Samad,Fazalhaq Farooqi,impact_player,32.0,0.0,Batted only
+1359478,2,12,Rajasthan Royals,NA Saini,YBK Jaiswal,impact_player,0.0,12.0,Bowled only
+1359479,2,1,Mumbai Indians,JP Behrendorff,SA Yadav,impact_player,0.0,18.0,Bowled only
+1359480,1,20,Lucknow Super Giants,A Badoni,Avesh Khan,impact_player,18.0,0.0,Batted only
+1359480,2,1,Chennai Super Kings,TU Deshpande,AT Rayudu,impact_player,0.0,24.0,Bowled only
+1359481,2,1,Delhi Capitals,KK Ahmed,SN Khan,impact_player,0.0,24.0,Bowled only
+1359481,2,7,Gujarat Titans,V Shankar,J Little,impact_player,23.0,0.0,Batted only
+1359482,1,17,Rajasthan Royals,Dhruv Jurel,YS Chahal,impact_player,15.0,0.0,Batted only
+1359482,2,16,Punjab Kings,R Dhawan,P Simran Singh,impact_player,0.0,0.0,Neither
+1359483,2,1,Kolkata Knight Riders,Suyash Sharma,VR Iyer,impact_player,0.0,24.0,Bowled only
+1359483,2,12,Royal Challengers Bengaluru,Anuj Rawat,Mohammed Siraj,impact_player,5.0,0.0,Batted only
+1359484,1,20,Lucknow Super Giants,A Badoni,A Mishra,impact_player,0.0,0.0,Neither
+1359484,2,1,Sunrisers Hyderabad,Fazalhaq Farooqi,RA Tripathi,impact_player,0.0,18.0,Bowled only
+1359485,2,1,Delhi Capitals,PP Shaw,KK Ahmed,impact_player,3.0,0.0,Batted only
+1359485,2,8,Rajasthan Royals,M Ashwin,JC Buttler,impact_player,0.0,6.0,Bowled only
+1359486,2,7,Mumbai Indians,K Kartikeya,TH David,impact_player,0.0,24.0,Bowled only
+1359486,2,15,Chennai Super Kings,AT Rayudu,DL Chahar,impact_player,16.0,0.0,Batted only
+1359487,2,1,Gujarat Titans,J Little,B Sai Sudharsan,impact_player,0.0,24.0,Bowled only
+1359487,2,3,Kolkata Knight Riders,VR Iyer,Suyash Sharma,impact_player,40.0,0.0,Batted only
+1359488,1,9,Punjab Kings,Sikandar Raza,P Simran Singh,impact_player,6.0,0.0,Batted only
+1359489,1,17,Lucknow Super Giants,A Badoni,A Mishra,impact_player,24.0,0.0,Batted only
+1359489,2,1,Royal Challengers Bengaluru,KV Sharma,Anuj Rawat,impact_player,0.0,18.0,Bowled only
+1359490,2,1,Delhi Capitals,Mukesh Kumar,PP Shaw,impact_player,0.0,12.0,Bowled only
+1359490,2,17,Mumbai Indians,TH David,RP Meredith,impact_player,11.0,0.0,Batted only
+1359491,1,20,Rajasthan Royals,A Zampa,JC Buttler,impact_player,1.0,24.0,Batted and bowled
+1359491,2,14,Chennai Super Kings,AT Rayudu,SSB Magala,impact_player,2.0,0.0,Batted only
+1359492,2,1,Punjab Kings,RD Chahar,PBB Rajapaksa,impact_player,0.0,18.0,Bowled only
+1359493,2,1,Sunrisers Hyderabad,Washington Sundar,HC Brook,impact_player,0.0,12.0,Bowled only
+1359493,2,1,Kolkata Knight Riders,VR Iyer,Suyash Sharma,impact_player,11.0,0.0,Batted only
+1359494,1,15,Royal Challengers Bengaluru,Anuj Rawat,MK Lomror,impact_player,22.0,0.0,Batted only
+1359494,2,1,Delhi Capitals,PP Shaw,Mustafizur Rahman,impact_player,2.0,0.0,Batted only
+1359495,1,19,Lucknow Super Giants,K Gowtham,KR Mayers,impact_player,2.0,24.0,Batted and bowled
+1359495,2,1,Punjab Kings,P Simran Singh,RD Chahar,impact_player,4.0,0.0,Batted only
+1359496,2,1,Mumbai Indians,RG Sharma,RP Meredith,impact_player,13.0,0.0,Batted only
+1359496,2,1,Kolkata Knight Riders,Suyash Sharma,VR Iyer,impact_player,0.0,24.0,Bowled only
+1359497,1,18,Rajasthan Royals,D Padikkal,YS Chahal,impact_player,25.0,0.0,Batted only
+1359497,2,13,Gujarat Titans,Noor Ahmad,Shubman Gill,impact_player,0.0,14.0,Bowled only
+1359498,2,1,Chennai Super Kings,Akash Singh,AT Rayudu,impact_player,0.0,18.0,Bowled only
+1359498,2,17,Royal Challengers Bengaluru,SS Prabhudessai,Mohammed Siraj,impact_player,11.0,0.0,Batted only
+1359499,2,1,Mumbai Indians,RP Meredith,Tilak Varma,impact_player,0.0,24.0,Bowled only
+1359499,2,15,Sunrisers Hyderabad,Abdul Samad,T Natarajan,impact_player,12.0,0.0,Batted only
+1359500,1,16,Rajasthan Royals,D Padikkal,YS Chahal,impact_player,21.0,0.0,Batted only
+1359500,2,9,Lucknow Super Giants,A Mishra,KR Mayers,impact_player,0.0,12.0,Bowled only
+1359501,2,1,Punjab Kings,P Simran Singh,RD Chahar,impact_player,30.0,0.0,Batted only
+1359501,2,1,Royal Challengers Bengaluru,Vijaykumar Vyshak,F du Plessis,impact_player,0.0,18.0,Bowled only
+1359502,1,13,Delhi Capitals,PP Shaw,I Sharma,impact_player,11.0,0.0,Batted only
+1359502,1,15,Kolkata Knight Riders,AS Roy,VR Iyer,impact_player,1.0,24.0,Batted and bowled
+1359503,2,1,Sunrisers Hyderabad,Mayank Dagar,RA Tripathi,impact_player,0.0,18.0,Bowled only
+1359503,2,15,Chennai Super Kings,AT Rayudu,Akash Singh,impact_player,9.0,0.0,Batted only
+1359504,1,18,Lucknow Super Giants,PN Mankad,A Mishra,impact_player,0.0,0.0,Neither
+1359504,2,1,Gujarat Titans,J Yadav,Shubman Gill,impact_player,0.0,24.0,Bowled only
+1359505,2,1,Punjab Kings,NT Ellis,P Simran Singh,impact_player,0.0,24.0,Bowled only
+1359505,2,20,Mumbai Indians,N Wadhera,JP Behrendorff,impact_player,1.0,0.0,Batted only
+1359506,2,1,Royal Challengers Bengaluru,HV Patel,F du Plessis,impact_player,0.0,24.0,Bowled only
+1359506,2,20,Rajasthan Royals,Abdul Basith,D Padikkal,impact_player,1.0,0.0,Batted only
+1359507,2,1,Chennai Super Kings,Akash Singh,AT Rayudu,impact_player,0.0,24.0,Bowled only
+1359507,2,1,Kolkata Knight Riders,VR Iyer,Suyash Sharma,impact_player,20.0,0.0,Batted only
+1359508,1,20,Sunrisers Hyderabad,RA Tripathi,T Natarajan,impact_player,21.0,0.0,Batted only
+1359508,2,1,Delhi Capitals,Mukesh Kumar,SN Khan,impact_player,0.0,18.0,Bowled only
+1359509,2,1,Gujarat Titans,J Little,Shubman Gill,impact_player,0.0,12.0,Bowled only
+1359509,2,8,Mumbai Indians,Tilak Varma,K Kartikeya,impact_player,3.0,0.0,Batted only
+1359510,2,1,Royal Challengers Bengaluru,F du Plessis,HV Patel,impact_player,7.0,0.0,Batted only
+1359510,2,1,Kolkata Knight Riders,Suyash Sharma,JJ Roy,impact_player,0.0,24.0,Bowled only
+1359511,2,1,Rajasthan Royals,K Yadav,SO Hetmyer,impact_player,0.0,18.0,Bowled only
+1359511,2,11,Chennai Super Kings,AT Rayudu,Akash Singh,impact_player,2.0,0.0,Batted only
+1359512,1,10,Punjab Kings,P Simran Singh,Gurnoor Brar,impact_player,13.0,0.0,Batted only
+1359512,2,7,Lucknow Super Giants,A Mishra,KR Mayers,impact_player,0.0,12.0,Bowled only
+1359513,2,1,Gujarat Titans,Shubman Gill,MM Sharma,impact_player,35.0,0.0,Batted only
+1359513,2,1,Kolkata Knight Riders,Suyash Sharma,VR Iyer,impact_player,0.0,24.0,Bowled only
+1359514,1,20,Delhi Capitals,SN Khan,I Sharma,impact_player,10.0,0.0,Batted only
+1359514,2,1,Sunrisers Hyderabad,T Natarajan,RA Tripathi,impact_player,0.0,24.0,Bowled only
+1359515,2,1,Chennai Super Kings,Akash Singh,AT Rayudu,impact_player,0.0,18.0,Bowled only
+1359515,2,1,Punjab Kings,P Simran Singh,K Rabada,impact_player,24.0,0.0,Batted only
+1359516,2,1,Rajasthan Royals,KR Sen,Dhruv Jurel,impact_player,0.0,6.0,Bowled only
+1359517,2,1,Lucknow Super Giants,A Badoni,Yash Thakur,impact_player,11.0,0.0,Batted only
+1359517,2,11,Royal Challengers Bengaluru,HV Patel,Anuj Rawat,impact_player,0.0,23.0,Bowled only
+1359518,2,1,Delhi Capitals,KK Ahmed,PK Garg,impact_player,0.0,24.0,Bowled only
+1359518,2,1,Gujarat Titans,Shubman Gill,MM Sharma,impact_player,7.0,0.0,Batted only
+1359519,1,18,Chennai Super Kings,AT Rayudu,M Theekshana,impact_player,0.0,0.0,Neither
+1359520,2,1,Punjab Kings,NT Ellis,P Simran Singh,impact_player,0.0,24.0,Bowled only
+1359520,2,7,Mumbai Indians,SA Yadav,Akash Madhwal,impact_player,31.0,0.0,Batted only
+1359521,1,18,Kolkata Knight Riders,AS Roy,JJ Roy,impact_player,7.0,18.0,Batted and bowled
+1359521,2,3,Sunrisers Hyderabad,RA Tripathi,T Natarajan,impact_player,9.0,0.0,Batted only
+1359522,1,9,Rajasthan Royals,R Parag,YBK Jaiswal,impact_player,6.0,0.0,Batted only
+1359522,2,1,Gujarat Titans,Shubman Gill,MM Sharma,impact_player,35.0,0.0,Batted only
+1359523,1,17,Chennai Super Kings,AT Rayudu,M Theekshana,impact_player,11.0,0.0,Batted only
+1359523,2,1,Mumbai Indians,R Goyal,SA Yadav,impact_player,0.0,24.0,Bowled only
+1359524,1,20,Delhi Capitals,RV Patel,I Sharma,impact_player,0.0,0.0,Neither
+1359524,2,9,Royal Challengers Bengaluru,HV Patel,KM Jadhav,impact_player,0.0,12.0,Bowled only
+1359525,2,1,Gujarat Titans,AS Joseph,Shubman Gill,impact_player,0.0,6.0,Bowled only
+1359525,2,17,Lucknow Super Giants,A Badoni,Yash Thakur,impact_player,11.0,0.0,Batted only
+1359526,2,1,Sunrisers Hyderabad,Anmolpreet Singh,T Natarajan,impact_player,25.0,0.0,Batted only
+1359526,2,14,Rajasthan Royals,OC McCoy,R Ashwin,impact_player,0.0,6.0,Bowled only
+1359527,2,1,Kolkata Knight Riders,JJ Roy,Suyash Sharma,impact_player,24.0,0.0,Batted only
+1359527,2,1,Punjab Kings,NT Ellis,PBB Rajapaksa,impact_player,0.0,24.0,Bowled only
+1359528,1,15,Royal Challengers Bengaluru,KM Jadhav,MK Lomror,impact_player,10.0,0.0,Batted only
+1359529,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,24.0,Bowled only
+1359529,2,3,Delhi Capitals,MK Pandey,KK Ahmed,impact_player,29.0,0.0,Batted only
+1359530,2,1,Kolkata Knight Riders,Suyash Sharma,VR Iyer,impact_player,0.0,18.0,Bowled only
+1359531,2,1,Mumbai Indians,Akash Madhwal,Vishnu Vinod,impact_player,0.0,24.0,Bowled only
+1359531,2,1,Gujarat Titans,Shubman Gill,MM Sharma,impact_player,9.0,0.0,Batted only
+1359532,1,17,Lucknow Super Giants,A Badoni,A Mishra,impact_player,0.0,0.0,Neither
+1359532,2,1,Sunrisers Hyderabad,Vivrant Sharma,Anmolpreet Singh,impact_player,0.0,0.0,Neither
+1359533,2,1,Punjab Kings,NT Ellis,P Simran Singh,impact_player,0.0,24.0,Bowled only
+1359533,2,10,Delhi Capitals,MK Pandey,KK Ahmed,impact_player,3.0,0.0,Batted only
+1359534,2,1,Royal Challengers Bengaluru,Shahbaz Ahmed,KD Karthik,impact_player,0.0,0.0,Neither
+1359534,2,2,Rajasthan Royals,D Padikkal,YS Chahal,impact_player,4.0,0.0,Batted only
+1359535,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,18.0,Bowled only
+1359535,2,2,Kolkata Knight Riders,VR Iyer,Suyash Sharma,impact_player,4.0,0.0,Batted only
+1359536,2,1,Gujarat Titans,Yash Dayal,Shubman Gill,impact_player,0.0,24.0,Bowled only
+1359536,2,20,Sunrisers Hyderabad,Anmolpreet Singh,T Natarajan,impact_player,4.0,0.0,Batted only
+1359537,2,2,Lucknow Super Giants,Yash Thakur,PN Mankad,impact_player,0.0,24.0,Bowled only
+1359537,2,17,Mumbai Indians,Vishnu Vinod,Akash Madhwal,impact_player,4.0,0.0,Batted only
+1359538,2,1,Delhi Capitals,Mukesh Kumar,PP Shaw,impact_player,0.0,24.0,Bowled only
+1359538,2,1,Punjab Kings,P Simran Singh,NT Ellis,impact_player,19.0,0.0,Batted only
+1359539,2,1,Sunrisers Hyderabad,T Natarajan,Abdul Samad,impact_player,0.0,24.0,Bowled only
+1359540,2,1,Punjab Kings,NT Ellis,P Simran Singh,impact_player,0.0,24.0,Bowled only
+1359540,2,19,Rajasthan Royals,Dhruv Jurel,YS Chahal,impact_player,4.0,0.0,Batted only
+1359541,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,24.0,Bowled only
+1359541,2,1,Delhi Capitals,PP Shaw,KK Ahmed,impact_player,7.0,0.0,Batted only
+1359542,1,12,Kolkata Knight Riders,Suyash Sharma,Harshit Rana,impact_player,0.0,6.0,Bowled only
+1359542,2,1,Lucknow Super Giants,Yash Thakur,KS Sharma,impact_player,0.0,18.0,Bowled only
+1359543,2,1,Sunrisers Hyderabad,Kartik Tyagi,MA Agarwal,impact_player,0.0,17.0,Bowled only
+1359544,2,1,Royal Challengers Bengaluru,H Sharma,KD Karthik,impact_player,0.0,18.0,Bowled only
+1359544,2,4,Gujarat Titans,V Shankar,Yash Dayal,impact_player,35.0,0.0,Batted only
+1370350,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,24.0,Bowled only
+1370350,2,1,Gujarat Titans,V Shankar,MM Sharma,impact_player,10.0,0.0,Batted only
+1370351,2,1,Lucknow Super Giants,KR Mayers,Yash Thakur,impact_player,13.0,0.0,Batted only
+1370351,2,1,Mumbai Indians,N Wadhera,SA Yadav,impact_player,12.0,0.0,Batted only
+1370352,2,1,Gujarat Titans,J Little,Shubman Gill,impact_player,0.0,18.0,Bowled only
+1370352,2,1,Mumbai Indians,N Wadhera,Akash Madhwal,impact_player,3.0,0.0,Batted only
+1370353,2,1,Gujarat Titans,J Little,B Sai Sudharsan,impact_player,0.0,12.0,Bowled only
+1370353,2,7,Chennai Super Kings,S Dube,M Pathirana,impact_player,21.0,0.0,Batted only
+1422119,2,1,Royal Challengers Bengaluru,Yash Dayal,KD Karthik,impact_player,0.0,18.0,Bowled only
+1422119,2,11,Chennai Super Kings,S Dube,Mustafizur Rahman,impact_player,28.0,0.0,Batted only
+1422120,1,18,Delhi Capitals,Abishek Porel,RK Bhui,impact_player,10.0,0.0,Batted only
+1422120,1,20,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,17.0,0.0,Batted only
+1422121,2,1,Sunrisers Hyderabad,Abhishek Sharma,T Natarajan,impact_player,19.0,0.0,Batted only
+1422121,2,9,Kolkata Knight Riders,Suyash Sharma,Ramandeep Singh,impact_player,0.0,12.0,Bowled only
+1422122,2,1,Rajasthan Royals,N Burger,SO Hetmyer,impact_player,0.0,18.0,Bowled only
+1422122,2,4,Lucknow Super Giants,DJ Hooda,Yash Thakur,impact_player,13.0,0.0,Batted only
+1422123,2,1,Gujarat Titans,MM Sharma,B Sai Sudharsan,impact_player,0.0,24.0,Bowled only
+1422123,2,4,Mumbai Indians,D Brevis,L Wood,impact_player,38.0,0.0,Batted only
+1422124,2,1,Punjab Kings,Arshdeep Singh,P Simran Singh,impact_player,0.0,20.0,Bowled only
+1422124,2,17,Royal Challengers Bengaluru,MK Lomror,Yash Dayal,impact_player,8.0,0.0,Batted only
+1422125,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,24.0,Bowled only
+1422125,2,3,Gujarat Titans,B Sai Sudharsan,MM Sharma,impact_player,31.0,0.0,Batted only
+1422126,2,1,Sunrisers Hyderabad,Umran Malik,TM Head,impact_player,0.0,6.0,Bowled only
+1422126,2,19,Mumbai Indians,R Shepherd,KT Maphaka,impact_player,6.0,0.0,Batted only
+1422127,1,16,Delhi Capitals,Abishek Porel,KK Ahmed,impact_player,10.0,0.0,Batted only
+1422127,2,1,Rajasthan Royals,N Burger,SO Hetmyer,impact_player,0.0,18.0,Bowled only
+1422128,1,18,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,0.0,0.0,Neither
+1422128,2,1,Royal Challengers Bengaluru,Vijaykumar Vyshak,KD Karthik,impact_player,0.0,24.0,Bowled only
+1422129,1,20,Lucknow Super Giants,Naveen-ul-Haq,KL Rahul,impact_player,0.0,24.0,Bowled only
+1422129,2,12,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,7.0,0.0,Batted only
+1422130,1,20,Sunrisers Hyderabad,Washington Sundar,MA Agarwal,impact_player,1.0,18.0,Batted and bowled
+1422130,2,5,Gujarat Titans,B Sai Sudharsan,MM Sharma,impact_player,36.0,0.0,Batted only
+1422131,2,7,Delhi Capitals,Rasikh Salam,PP Shaw,impact_player,0.0,12.0,Bowled only
+1422131,2,11,Chennai Super Kings,S Dube,M Pathirana,impact_player,17.0,0.0,Batted only
+1422132,1,2,Mumbai Indians,D Brevis,Naman Dhir,impact_player,1.0,0.0,Batted only
+1422132,1,19,Rajasthan Royals,SB Dubey,YS Chahal,impact_player,6.0,0.0,Batted only
+1422133,2,1,Lucknow Super Giants,M Siddharth,Q de Kock,impact_player,0.0,18.0,Bowled only
+1422133,2,13,Royal Challengers Bengaluru,MK Lomror,Yash Dayal,impact_player,13.0,0.0,Batted only
+1422134,1,19,Delhi Capitals,Abishek Porel,KK Ahmed,impact_player,5.0,0.0,Batted only
+1422134,2,1,Kolkata Knight Riders,VG Arora,A Raghuvanshi,impact_player,0.0,24.0,Bowled only
+1422135,2,1,Gujarat Titans,MM Sharma,R Tewatia,impact_player,0.0,24.0,Bowled only
+1422135,2,16,Punjab Kings,Ashutosh Sharma,Arshdeep Singh,impact_player,17.0,0.0,Batted only
+1422136,2,1,Chennai Super Kings,Mukesh Choudhary,S Dube,impact_player,0.0,6.0,Bowled only
+1422136,2,1,Sunrisers Hyderabad,TM Head,T Natarajan,impact_player,24.0,0.0,Batted only
+1422137,1,19,Rajasthan Royals,SB Dubey,YS Chahal,impact_player,0.0,0.0,Neither
+1422137,2,1,Royal Challengers Bengaluru,H Sharma,Saurav Chauhan,impact_player,0.0,12.0,Bowled only
+1422138,1,18,Delhi Capitals,Kumar Kushagra,KK Ahmed,impact_player,1.0,0.0,Batted only
+1422138,2,1,Mumbai Indians,Akash Madhwal,SA Yadav,impact_player,0.0,24.0,Bowled only
+1422139,2,1,Lucknow Super Giants,M Siddharth,MP Stoinis,impact_player,0.0,24.0,Bowled only
+1422139,2,7,Gujarat Titans,KS Williamson,MM Sharma,impact_player,5.0,0.0,Batted only
+1426260,1,19,Kolkata Knight Riders,AS Roy,RK Singh,impact_player,3.0,10.0,Batted and bowled
+1426260,2,13,Chennai Super Kings,S Dube,Mustafizur Rahman,impact_player,18.0,0.0,Batted only
+1426261,1,6,Sunrisers Hyderabad,RA Tripathi,TM Head,impact_player,14.0,0.0,Batted only
+1426261,2,2,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,6.0,0.0,Batted only
+1426262,2,1,Rajasthan Royals,KA Maharaj,YBK Jaiswal,impact_player,0.0,12.0,Bowled only
+1426262,2,1,Gujarat Titans,M Shahrukh Khan,MM Sharma,impact_player,8.0,0.0,Batted only
+1426263,1,17,Royal Challengers Bengaluru,Saurav Chauhan,RM Patidar,impact_player,8.0,0.0,Batted only
+1426263,2,9,Mumbai Indians,SA Yadav,Akash Madhwal,impact_player,19.0,0.0,Batted only
+1426264,1,8,Lucknow Super Giants,DJ Hooda,Q de Kock,impact_player,13.0,0.0,Batted only
+1426264,1,19,Delhi Capitals,Abishek Porel,KK Ahmed,impact_player,0.0,0.0,Neither
+1426265,1,17,Punjab Kings,Ashutosh Sharma,P Simran Singh,impact_player,16.0,0.0,Batted only
+1426265,2,1,Rajasthan Royals,YBK Jaiswal,KR Sen,impact_player,28.0,0.0,Batted only
+1426266,1,18,Kolkata Knight Riders,RK Singh,CV Varun,impact_player,0.0,0.0,Neither
+1426266,1,20,Lucknow Super Giants,Arshad Khan (2),Q de Kock,impact_player,4.0,12.0,Batted and bowled
+1426267,2,1,Chennai Super Kings,M Pathirana,AM Rahane,impact_player,0.0,24.0,Bowled only
+1426267,2,8,Mumbai Indians,SA Yadav,Akash Madhwal,impact_player,2.0,0.0,Batted only
+1426268,1,19,Royal Challengers Bengaluru,Anuj Rawat,Yash Dayal,impact_player,14.0,0.0,Batted only
+1426268,2,1,Sunrisers Hyderabad,M Markande,TM Head,impact_player,0.0,24.0,Bowled only
+1426269,2,1,Rajasthan Royals,JC Buttler,KR Sen,impact_player,60.0,0.0,Batted only
+1426269,2,1,Kolkata Knight Riders,VG Arora,RK Singh,impact_player,0.0,18.0,Bowled only
+1426270,1,9,Gujarat Titans,M Shahrukh Khan,B Sai Sudharsan,impact_player,1.0,0.0,Batted only
+1426270,1,16,Delhi Capitals,Abishek Porel,KK Ahmed,impact_player,7.0,0.0,Batted only
+1426271,2,1,Mumbai Indians,Akash Madhwal,SA Yadav,impact_player,0.0,19.0,Bowled only
+1426271,2,3,Punjab Kings,Harpreet Singh,Arshdeep Singh,impact_player,15.0,0.0,Batted only
+1426272,1,12,Chennai Super Kings,Sameer Rizvi,AM Rahane,impact_player,5.0,0.0,Batted only
+1426273,1,20,Sunrisers Hyderabad,Washington Sundar,TM Head,impact_player,0.0,12.0,Bowled only
+1426273,2,1,Delhi Capitals,PP Shaw,KK Ahmed,impact_player,5.0,0.0,Batted only
+1426274,2,7,Kolkata Knight Riders,Suyash Sharma,RK Singh,impact_player,0.0,12.0,Bowled only
+1426274,2,12,Royal Challengers Bengaluru,SS Prabhudessai,Yash Dayal,impact_player,18.0,0.0,Batted only
+1426275,1,14,Punjab Kings,Harpreet Singh,P Simran Singh,impact_player,19.0,0.0,Batted only
+1426275,1,20,Gujarat Titans,B Sai Sudharsan,S Sandeep Warrier,impact_player,34.0,0.0,Batted only
+1426276,2,1,Mumbai Indians,N Thushara,SA Yadav,impact_player,0.0,18.0,Bowled only
+1426276,2,1,Rajasthan Royals,JC Buttler,YS Chahal,impact_player,25.0,0.0,Batted only
+1426277,2,1,Chennai Super Kings,SN Thakur,AM Rahane,impact_player,0.0,18.0,Bowled only
+1426277,2,5,Lucknow Super Giants,D Padikkal,Yash Thakur,impact_player,19.0,0.0,Batted only
+1426278,2,1,Delhi Capitals,Rasikh Salam,PP Shaw,impact_player,0.0,24.0,Bowled only
+1426278,2,2,Gujarat Titans,B Sai Sudharsan,S Sandeep Warrier,impact_player,39.0,0.0,Batted only
+1426279,1,19,Royal Challengers Bengaluru,Swapnil Singh,RM Patidar,impact_player,6.0,18.0,Batted and bowled
+1426279,2,1,Sunrisers Hyderabad,TM Head,T Natarajan,impact_player,3.0,0.0,Batted only
+1426280,2,1,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,20.0,0.0,Batted only
+1426280,2,4,Kolkata Knight Riders,AS Roy,VR Iyer,impact_player,0.0,12.0,Bowled only
+1426281,2,4,Mumbai Indians,SA Yadav,N Thushara,impact_player,13.0,0.0,Batted only
+1426281,2,10,Delhi Capitals,Rasikh Salam,Kumar Kushagra,impact_player,0.0,24.0,Bowled only
+1426282,2,7,Rajasthan Royals,R Parag,YS Chahal,impact_player,11.0,0.0,Batted only
+1426282,2,9,Lucknow Super Giants,A Mishra,Q de Kock,impact_player,0.0,12.0,Bowled only
+1426283,2,1,Gujarat Titans,S Sandeep Warrier,B Sai Sudharsan,impact_player,0.0,6.0,Bowled only
+1426284,2,1,Chennai Super Kings,SN Thakur,S Dube,impact_player,0.0,24.0,Bowled only
+1426284,2,2,Sunrisers Hyderabad,Anmolpreet Singh,T Natarajan,impact_player,1.0,0.0,Batted only
+1426285,1,13,Delhi Capitals,Kumar Kushagra,PP Shaw,impact_player,3.0,0.0,Batted only
+1426285,1,16,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,0.0,0.0,Neither
+1426286,2,1,Mumbai Indians,N Thushara,SA Yadav,impact_player,0.0,24.0,Bowled only
+1426286,2,1,Lucknow Super Giants,AA Kulkarni,MP Yadav,impact_player,1.0,0.0,Batted only
+1426287,1,10,Chennai Super Kings,Sameer Rizvi,AM Rahane,impact_player,23.0,0.0,Batted only
+1426287,2,1,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,10.0,0.0,Batted only
+1426288,2,1,Rajasthan Royals,JC Buttler,YS Chahal,impact_player,1.0,0.0,Batted only
+1426288,2,1,Sunrisers Hyderabad,JD Unadkat,Anmolpreet Singh,impact_player,0.0,12.0,Bowled only
+1426289,2,1,Mumbai Indians,RG Sharma,N Thushara,impact_player,12.0,0.0,Batted only
+1426289,2,7,Kolkata Knight Riders,MK Pandey,A Raghuvanshi,impact_player,31.0,0.0,Batted only
+1426290,1,18,Gujarat Titans,V Shankar,B Sai Sudharsan,impact_player,7.0,0.0,Batted only
+1426290,1,19,Royal Challengers Bengaluru,RM Patidar,Yash Dayal,impact_player,3.0,0.0,Batted only
+1426291,2,1,Punjab Kings,P Simran Singh,Arshdeep Singh,impact_player,23.0,0.0,Batted only
+1426291,2,1,Chennai Super Kings,Simarjeet Singh,AM Rahane,impact_player,0.0,18.0,Bowled only
+1426292,2,1,Kolkata Knight Riders,VG Arora,A Raghuvanshi,impact_player,0.0,12.0,Bowled only
+1426292,2,1,Lucknow Super Giants,AA Kulkarni,Yash Thakur,impact_player,7.0,0.0,Batted only
+1426292,2,16,Lucknow Super Giants,Yudhvir Singh,Mohsin Khan,impact_player,7.0,12.0,Batted and bowled
+1426293,1,18,Sunrisers Hyderabad,Sanvir Singh,Abhishek Sharma,impact_player,7.0,0.0,Batted only
+1426294,1,19,Delhi Capitals,Rasikh Salam,Abishek Porel,impact_player,3.0,18.0,Batted and bowled
+1426294,2,1,Rajasthan Royals,JC Buttler,YS Chahal,impact_player,17.0,0.0,Batted only
+1426295,1,20,Sunrisers Hyderabad,Abhishek Sharma,T Natarajan,impact_player,28.0,0.0,Batted only
+1426296,1,18,Punjab Kings,JM Sharma,V Kaverappa,impact_player,4.0,0.0,Batted only
+1426296,2,1,Royal Challengers Bengaluru,Yash Dayal,RM Patidar,impact_player,0.0,12.0,Bowled only
+1426297,2,1,Chennai Super Kings,AM Rahane,TU Deshpande,impact_player,5.0,0.0,Batted only
+1426297,2,1,Gujarat Titans,S Sandeep Warrier,B Sai Sudharsan,impact_player,0.0,18.0,Bowled only
+1426298,2,1,Kolkata Knight Riders,VG Arora,N Rana,impact_player,0.0,12.0,Bowled only
+1426298,2,1,Mumbai Indians,RG Sharma,N Thushara,impact_player,24.0,0.0,Batted only
+1426299,2,1,Rajasthan Royals,N Burger,Dhruv Jurel,impact_player,0.0,18.0,Bowled only
+1426299,2,16,Chennai Super Kings,Sameer Rizvi,DJ Mitchell,impact_player,8.0,0.0,Batted only
+1426300,1,19,Royal Challengers Bengaluru,Swapnil Singh,RM Patidar,impact_player,1.0,6.0,Batted and bowled
+1426300,2,1,Delhi Capitals,DA Warner,KK Ahmed,impact_player,2.0,0.0,Batted only
+1426302,1,19,Lucknow Super Giants,A Badoni,Mohsin Khan,impact_player,9.0,0.0,Batted only
+1426302,2,1,Delhi Capitals,I Sharma,Abishek Porel,impact_player,0.0,24.0,Bowled only
+1426303,1,15,Rajasthan Royals,D Ferreira,Dhruv Jurel,impact_player,8.0,0.0,Batted only
+1426303,2,16,Punjab Kings,Ashutosh Sharma,Arshdeep Singh,impact_player,11.0,0.0,Batted only
+1426305,2,1,Mumbai Indians,RG Sharma,N Thushara,impact_player,38.0,0.0,Batted only
+1426305,2,1,Lucknow Super Giants,Naveen-ul-Haq,A Badoni,impact_player,0.0,24.0,Bowled only
+1426306,2,1,Royal Challengers Bengaluru,Swapnil Singh,RM Patidar,impact_player,0.0,12.0,Bowled only
+1426306,2,10,Chennai Super Kings,S Dube,M Theekshana,impact_player,15.0,0.0,Batted only
+1426307,2,1,Sunrisers Hyderabad,TM Head,T Natarajan,impact_player,1.0,0.0,Batted only
+1426307,2,1,Punjab Kings,Arshdeep Singh,Ashutosh Sharma,impact_player,0.0,24.0,Bowled only
+1426309,1,14,Sunrisers Hyderabad,Sanvir Singh,Abhishek Sharma,impact_player,1.0,0.0,Batted only
+1426310,1,19,Royal Challengers Bengaluru,Swapnil Singh,RM Patidar,impact_player,4.0,12.0,Batted and bowled
+1426310,2,14,Rajasthan Royals,SO Hetmyer,YS Chahal,impact_player,14.0,0.0,Batted only
+1426311,1,15,Sunrisers Hyderabad,Shahbaz Ahmed,TM Head,impact_player,18.0,24.0,Batted and bowled
+1426311,2,12,Rajasthan Royals,SO Hetmyer,YS Chahal,impact_player,10.0,0.0,Batted only
+1426312,1,12,Sunrisers Hyderabad,Abdul Samad,TM Head,impact_player,4.0,0.0,Batted only
+1473438,1,17,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player,10.0,0.0,Batted only
+1473438,2,1,Kolkata Knight Riders,VG Arora,A Raghuvanshi,impact_player,0.0,18.0,Bowled only
+1473439,2,1,Rajasthan Royals,SV Samson,Fazalhaq Farooqi,impact_player,37.0,0.0,Batted only
+1473439,2,8,Sunrisers Hyderabad,A Zampa,TM Head,impact_player,0.0,24.0,Bowled only
+1473440,1,20,Chennai Super Kings,RA Tripathi,KK Ahmed,impact_player,3.0,0.0,Batted only
+1473440,2,1,Mumbai Indians,V Puthur,RG Sharma,impact_player,0.0,24.0,Bowled only
+1473441,2,1,Lucknow Super Giants,M Siddharth,MR Marsh,impact_player,0.0,24.0,Bowled only
+1473441,2,7,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,31.0,0.0,Batted only
+1473442,2,13,Gujarat Titans,SE Rutherford,M Prasidh Krishna,impact_player,28.0,0.0,Batted only
+1473442,2,14,Punjab Kings,Vijaykumar Vyshak,Priyansh Arya,impact_player,0.0,18.0,Bowled only
+1473443,1,12,Rajasthan Royals,SB Dubey,SV Samson,impact_player,12.0,0.0,Batted only
+1473443,1,17,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,17.0,0.0,Batted only
+1473444,2,1,Lucknow Super Giants,MR Marsh,DS Rathi,impact_player,31.0,0.0,Batted only
+1473444,2,7,Sunrisers Hyderabad,A Zampa,TM Head,impact_player,0.0,24.0,Bowled only
+1473445,2,7,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1473445,2,9,Chennai Super Kings,S Dube,M Pathirana,impact_player,15.0,0.0,Batted only
+1473446,2,1,Gujarat Titans,I Sharma,SE Rutherford,impact_player,0.0,12.0,Bowled only
+1473446,2,12,Mumbai Indians,R Minz,PVSN Raju,impact_player,6.0,0.0,Batted only
+1473447,1,15,Sunrisers Hyderabad,PWA Mulder,TM Head,impact_player,11.0,6.0,Batted and bowled
+1473448,1,19,Rajasthan Royals,K Kartikeya,SV Samson,impact_player,1.0,6.0,Batted and bowled
+1473448,2,8,Chennai Super Kings,S Dube,M Pathirana,impact_player,10.0,0.0,Batted only
+1473449,1,8,Kolkata Knight Riders,MK Pandey,A Raghuvanshi,impact_player,14.0,0.0,Batted only
+1473449,1,16,Mumbai Indians,RG Sharma,V Puthur,impact_player,12.0,0.0,Batted only
+1473450,1,18,Punjab Kings,N Wadhera,YS Chahal,impact_player,25.0,0.0,Batted only
+1473450,2,7,Lucknow Super Giants,M Siddharth,DA Miller,impact_player,0.0,18.0,Bowled only
+1473451,2,5,Royal Challengers Bengaluru,Rasikh Salam,D Padikkal,impact_player,0.0,18.0,Bowled only
+1473451,2,13,Gujarat Titans,SE Rutherford,I Sharma,impact_player,18.0,0.0,Batted only
+1473452,2,1,Kolkata Knight Riders,VG Arora,A Raghuvanshi,impact_player,0.0,24.0,Bowled only
+1473452,2,1,Sunrisers Hyderabad,TM Head,Zeeshan Ansari,impact_player,2.0,0.0,Batted only
+1473453,2,1,Lucknow Super Giants,Ravi Bishnoi,MR Marsh,impact_player,0.0,24.0,Bowled only
+1473453,2,9,Mumbai Indians,Tilak Varma,V Puthur,impact_player,23.0,0.0,Batted only
+1473454,2,1,Delhi Capitals,Mukesh Kumar,Ashutosh Sharma,impact_player,0.0,24.0,Bowled only
+1473454,2,6,Chennai Super Kings,S Dube,M Pathirana,impact_player,15.0,0.0,Batted only
+1473455,1,19,Punjab Kings,Priyansh Arya,YS Chahal,impact_player,1.0,0.0,Batted only
+1473455,2,4,Rajasthan Royals,K Kartikeya,N Rana,impact_player,0.0,12.0,Bowled only
+1473456,1,15,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,4.0,0.0,Batted only
+1473456,2,1,Lucknow Super Giants,Ravi Bishnoi,MR Marsh,impact_player,0.0,24.0,Bowled only
+1473457,1,19,Sunrisers Hyderabad,Simarjeet Singh,TM Head,impact_player,2.0,6.0,Batted and bowled
+1473457,2,14,Gujarat Titans,SE Rutherford,I Sharma,impact_player,16.0,0.0,Batted only
+1473458,1,16,Mumbai Indians,RG Sharma,V Puthur,impact_player,9.0,0.0,Batted only
+1473458,2,7,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1473459,2,1,Punjab Kings,Yash Thakur,Priyansh Arya,impact_player,0.0,24.0,Bowled only
+1473459,2,8,Chennai Super Kings,S Dube,M Pathirana,impact_player,27.0,0.0,Batted only
+1473460,1,14,Rajasthan Royals,SB Dubey,Fazalhaq Farooqi,impact_player,3.0,0.0,Batted only
+1473460,2,1,Gujarat Titans,K Khejroliya,SE Rutherford,impact_player,0.0,18.0,Bowled only
+1473461,2,3,Delhi Capitals,Abishek Porel,Mukesh Kumar,impact_player,7.0,0.0,Batted only
+1473461,2,7,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1473462,1,14,Chennai Super Kings,DJ Hooda,RA Tripathi,impact_player,4.0,0.0,Batted only
+1473463,2,1,Gujarat Titans,M Prasidh Krishna,SE Rutherford,impact_player,0.0,24.0,Bowled only
+1473463,2,12,Lucknow Super Giants,A Badoni,DS Rathi,impact_player,20.0,0.0,Batted only
+1473464,1,19,Sunrisers Hyderabad,A Manohar,E Malinga,impact_player,0.0,0.0,Neither
+1473464,2,4,Punjab Kings,Yash Thakur,Priyansh Arya,impact_player,0.0,15.0,Bowled only
+1473465,1,18,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player,28.0,0.0,Batted only
+1473465,2,6,Rajasthan Royals,K Kartikeya,N Rana,impact_player,0.0,18.0,Bowled only
+1473466,2,1,Delhi Capitals,KK Nair,Mukesh Kumar,impact_player,40.0,0.0,Batted only
+1473466,2,7,Mumbai Indians,KV Sharma,RG Sharma,impact_player,0.0,24.0,Bowled only
+1473467,2,1,Lucknow Super Giants,Ravi Bishnoi,MR Marsh,impact_player,0.0,18.0,Bowled only
+1473467,2,9,Chennai Super Kings,S Dube,M Pathirana,impact_player,37.0,0.0,Batted only
+1473468,1,9,Punjab Kings,Suryansh Shedge,P Simran Singh,impact_player,4.0,0.0,Batted only
+1473468,1,15,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,28.0,0.0,Batted only
+1473469,2,1,Delhi Capitals,Mukesh Kumar,Abishek Porel,impact_player,0.0,18.0,Bowled only
+1473469,4,1,Rajasthan Royals,SB Dubey,M Theekshana,impact_player,0.0,0.0,Neither
+1473470,2,1,Mumbai Indians,RG Sharma,KV Sharma,impact_player,16.0,0.0,Batted only
+1473470,2,8,Sunrisers Hyderabad,RD Chahar,Mohammed Shami,impact_player,0.0,6.0,Bowled only
+1473471,1,8,Royal Challengers Bengaluru,MS Bhandage,LS Livingstone,impact_player,4.0,0.0,Batted only
+1473471,2,1,Punjab Kings,P Simran Singh,YS Chahal,impact_player,9.0,0.0,Batted only
+1473472,2,18,Delhi Capitals,D Ferreira,Abishek Porel,impact_player,3.0,0.0,Batted only
+1473472,2,20,Gujarat Titans,SE Rutherford,I Sharma,impact_player,34.0,0.0,Batted only
+1473473,1,8,Lucknow Super Giants,A Badoni,MR Marsh,impact_player,34.0,0.0,Batted only
+1473473,2,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player,20.0,0.0,Batted only
+1473474,1,17,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player,35.0,0.0,Batted only
+1473474,2,1,Punjab Kings,Harpreet Brar,P Simran Singh,impact_player,0.0,24.0,Bowled only
+1473475,2,1,Chennai Super Kings,R Ashwin,S Dube,impact_player,0.0,24.0,Bowled only
+1473475,2,1,Mumbai Indians,RG Sharma,Ashwani Kumar,impact_player,45.0,0.0,Batted only
+1473476,2,1,Gujarat Titans,I Sharma,SE Rutherford,impact_player,0.0,12.0,Bowled only
+1473476,2,17,Kolkata Knight Riders,A Raghuvanshi,VG Arora,impact_player,13.0,0.0,Batted only
+1473477,1,15,Lucknow Super Giants,A Badoni,MR Marsh,impact_player,21.0,0.0,Batted only
+1473478,1,9,Sunrisers Hyderabad,A Manohar,TM Head,impact_player,37.0,0.0,Batted only
+1473478,1,17,Mumbai Indians,RG Sharma,V Puthur,impact_player,46.0,0.0,Batted only
+1473479,2,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player,12.0,0.0,Batted only
+1473479,2,7,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1473480,1,17,Chennai Super Kings,A Kamboj,S Dube,impact_player,4.0,18.0,Batted and bowled
+1473480,2,1,Sunrisers Hyderabad,TM Head,Zeeshan Ansari,impact_player,16.0,0.0,Batted only
+1473481,1,20,Kolkata Knight Riders,A Raghuvanshi,C Sakariya,impact_player,0.0,0.0,Neither
+1473481,2,1,Punjab Kings,Harpreet Brar,P Simran Singh,impact_player,0.0,0.0,Neither
+1473482,2,1,Mumbai Indians,JJ Bumrah,RG Sharma,impact_player,0.0,24.0,Bowled only
+1473482,2,12,Lucknow Super Giants,DA Miller,N Pooran,impact_player,16.0,0.0,Batted only
+1473483,1,16,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player,2.0,0.0,Batted only
+1473483,1,17,Delhi Capitals,Ashutosh Sharma,F du Plessis,impact_player,3.0,0.0,Batted only
+1473484,2,1,Gujarat Titans,I Sharma,Shubman Gill,impact_player,0.0,12.0,Bowled only
+1473485,2,1,Kolkata Knight Riders,VG Arora,VR Iyer,impact_player,0.0,12.0,Bowled only
+1473485,2,16,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,6.0,0.0,Batted only
+1473486,1,19,Chennai Super Kings,A Kamboj,A Mhatre,impact_player,1.0,12.0,Batted and bowled
+1473486,2,1,Punjab Kings,P Simran Singh,YS Chahal,impact_player,36.0,0.0,Batted only
+1473487,2,5,Rajasthan Royals,SB Dubey,Fazalhaq Farooqi,impact_player,9.0,0.0,Batted only
+1473487,2,8,Mumbai Indians,KV Sharma,RG Sharma,impact_player,0.0,24.0,Bowled only
+1473488,1,18,Sunrisers Hyderabad,TM Head,Mohammed Shami,impact_player,16.0,0.0,Batted only
+1473488,2,1,Gujarat Titans,I Sharma,B Sai Sudharsan,impact_player,0.0,20.0,Bowled only
+1473489,2,7,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1473489,2,20,Chennai Super Kings,S Dube,M Pathirana,impact_player,3.0,0.0,Batted only
+1473490,2,1,Kolkata Knight Riders,Harshit Rana,A Raghuvanshi,impact_player,0.0,24.0,Bowled only
+1473490,2,16,Rajasthan Royals,SB Dubey,Akash Madhwal,impact_player,14.0,0.0,Batted only
+1473491,2,1,Lucknow Super Giants,MR Marsh,Akash Singh,impact_player,5.0,0.0,Batted only
+1473491,2,5,Punjab Kings,Vijaykumar Vyshak,P Simran Singh,impact_player,0.0,18.0,Bowled only
+1473492,1,13,Delhi Capitals,Ashutosh Sharma,Abishek Porel,impact_player,26.0,0.0,Batted only
+1473492,1,15,Sunrisers Hyderabad,TM Head,JD Unadkat,impact_player,0.0,0.0,Neither
+1473493,1,20,Mumbai Indians,KV Sharma,RG Sharma,impact_player,1.0,12.0,Batted and bowled
+1473493,2,12,Gujarat Titans,SE Rutherford,M Prasidh Krishna,impact_player,15.0,0.0,Batted only
+1473494,2,1,Kolkata Knight Riders,Harshit Rana,MK Pandey,impact_player,0.0,24.0,Bowled only
+1473494,2,6,Chennai Super Kings,S Dube,M Pathirana,impact_player,40.0,0.0,Batted only
+1473497,2,1,Punjab Kings,Harpreet Brar,SS Iyer,impact_player,0.0,24.0,Bowled only
+1473497,2,18,Rajasthan Royals,SB Dubey,Fazalhaq Farooqi,impact_player,7.0,0.0,Batted only
+1473498,2,1,Gujarat Titans,B Sai Sudharsan,M Prasidh Krishna,impact_player,61.0,0.0,Batted only
+1473498,2,1,Delhi Capitals,PVD Chameera,Ashutosh Sharma,impact_player,0.0,12.0,Bowled only
+1473499,1,17,Sunrisers Hyderabad,Atharva Taide,Zeeshan Ansari,impact_player,9.0,0.0,Batted only
+1473499,1,20,Lucknow Super Giants,SN Thakur,MR Marsh,impact_player,1.0,24.0,Batted and bowled
+1473500,2,1,Chennai Super Kings,M Pathirana,S Dube,impact_player,0.0,13.0,Bowled only
+1473501,2,1,Delhi Capitals,KL Rahul,Mukesh Kumar,impact_player,6.0,0.0,Batted only
+1473501,2,8,Mumbai Indians,KV Sharma,RG Sharma,impact_player,0.0,18.0,Bowled only
+1473502,2,1,Gujarat Titans,B Sai Sudharsan,M Prasidh Krishna,impact_player,16.0,0.0,Batted only
+1473502,2,1,Lucknow Super Giants,Akash Singh,MR Marsh,impact_player,0.0,19.0,Bowled only
+1473503,2,1,Sunrisers Hyderabad,Harsh Dubey,TM Head,impact_player,0.0,12.0,Bowled only
+1473503,2,11,Royal Challengers Bengaluru,RM Patidar,Suyash Sharma,impact_player,16.0,0.0,Batted only
+1473504,2,1,Chennai Super Kings,M Pathirana,DP Conway,impact_player,0.0,18.0,Bowled only
+1473504,2,1,Gujarat Titans,B Sai Sudharsan,M Prasidh Krishna,impact_player,28.0,0.0,Batted only
+1473505,2,6,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,18.0,0.0,Batted only
+1473505,2,7,Sunrisers Hyderabad,Harsh Dubey,TM Head,impact_player,0.0,24.0,Bowled only
+1473506,2,1,Punjab Kings,P Simran Singh,Vijaykumar Vyshak,impact_player,16.0,0.0,Batted only
+1473506,2,4,Mumbai Indians,Ashwani Kumar,RG Sharma,impact_player,0.0,6.0,Bowled only
+1473507,2,1,Lucknow Super Giants,Akash Singh,MR Marsh,impact_player,0.0,24.0,Bowled only
+1473507,2,6,Royal Challengers Bengaluru,RM Patidar,Suyash Sharma,impact_player,7.0,0.0,Batted only
+1473508,1,9,Punjab Kings,Musheer Khan,P Simran Singh,impact_player,3.0,12.0,Batted and bowled
+1473508,2,4,Royal Challengers Bengaluru,MA Agarwal,Suyash Sharma,impact_player,13.0,0.0,Batted only
+1473509,1,19,Gujarat Titans,SE Rutherford,Mohammed Siraj,impact_player,15.0,0.0,Batted only
+1473509,2,11,Mumbai Indians,Ashwani Kumar,RG Sharma,impact_player,0.0,21.0,Bowled only
+1473510,1,18,Punjab Kings,P Simran Singh,YS Chahal,impact_player,9.0,0.0,Batted only
+1473510,2,1,Mumbai Indians,Ashwani Kumar,RG Sharma,impact_player,0.0,24.0,Bowled only
+1473511,2,1,Punjab Kings,P Simran Singh,YS Chahal,impact_player,22.0,0.0,Batted only
+1473511,2,7,Royal Challengers Bengaluru,Suyash Sharma,MA Agarwal,impact_player,0.0,12.0,Bowled only
+1485779,1,18,Delhi Capitals,KL Rahul,Mukesh Kumar,impact_player,21.0,0.0,Batted only
+1485779,2,1,Punjab Kings,P Dubey,P Simran Singh,impact_player,0.0,12.0,Bowled only
+1527674,1,8,Royal Challengers Bengaluru,D Padikkal,JA Duffy,impact_player,26.0,0.0,Batted only
+1527674,1,18,Sunrisers Hyderabad,DA Payne,TM Head,impact_player,5.0,18.0,Batted and bowled
+1527675,2,1,Kolkata Knight Riders,Kartik Tyagi,FH Allen,impact_player,0.0,24.0,Bowled only
+1527675,2,12,Mumbai Indians,SA Yadav,JJ Bumrah,impact_player,8.0,0.0,Batted only
+1527676,1,4,Chennai Super Kings,SN Khan,A Mhatre,impact_player,12.0,0.0,Batted only
+1527677,1,17,Punjab Kings,Priyansh Arya,YS Chahal,impact_player,8.0,0.0,Batted only
+1527677,2,1,Gujarat Titans,M Prasidh Krishna,M Shahrukh Khan,impact_player,0.0,24.0,Bowled only
+1527678,1,14,Lucknow Super Giants,Shahbaz Ahmed,MR Marsh,impact_player,16.0,6.0,Batted and bowled
+1527678,2,4,Delhi Capitals,Sameer Rizvi,T Natarajan,impact_player,47.0,0.0,Batted only
+1527679,2,1,Kolkata Knight Riders,FH Allen,B Muzarabani,impact_player,7.0,0.0,Batted only
+1527679,2,1,Sunrisers Hyderabad,E Malinga,TM Head,impact_player,0.0,12.0,Bowled only
+1527680,1,19,Punjab Kings,Priyansh Arya,YS Chahal,impact_player,11.0,0.0,Batted only
+1527680,2,1,Chennai Super Kings,RD Chahar,Kartik Sharma,impact_player,0.0,24.0,Bowled only
+1527681,2,2,Delhi Capitals,Sameer Rizvi,Mukesh Kumar,impact_player,51.0,0.0,Batted only
+1527681,2,6,Mumbai Indians,M Markande,RG Sharma,impact_player,0.0,12.0,Bowled only
+1527682,2,1,Rajasthan Royals,Ravi Bishnoi,D Ferreira,impact_player,0.0,24.0,Bowled only
+1527682,2,14,Gujarat Titans,M Shahrukh Khan,M Prasidh Krishna,impact_player,4.0,0.0,Batted only
+1527683,1,13,Lucknow Super Giants,A Badoni,Mohammed Shami,impact_player,9.0,0.0,Batted only
+1527683,2,1,Sunrisers Hyderabad,E Malinga,TM Head,impact_player,0.0,24.0,Bowled only
+1527684,1,17,Chennai Super Kings,Kartik Sharma,KK Ahmed,impact_player,3.0,0.0,Batted only
+1527684,2,11,Royal Challengers Bengaluru,Suyash Sharma,D Padikkal,impact_player,0.0,24.0,Bowled only
+1527686,2,1,Rajasthan Royals,Ravi Bishnoi,D Ferreira,impact_player,0.0,12.0,Bowled only
+1527686,2,6,Mumbai Indians,SE Rutherford,AM Ghazanfar,impact_player,8.0,0.0,Batted only
+1527687,2,1,Gujarat Titans,M Prasidh Krishna,M Shahrukh Khan,impact_player,0.0,24.0,Bowled only
+1527687,2,10,Delhi Capitals,Sameer Rizvi,Mukesh Kumar,impact_player,1.0,0.0,Batted only
+1527688,2,1,Kolkata Knight Riders,VG Arora,FH Allen,impact_player,0.0,24.0,Bowled only
+1527688,2,5,Lucknow Super Giants,A Badoni,M Siddharth,impact_player,34.0,0.0,Batted only
+1527689,1,15,Royal Challengers Bengaluru,VR Iyer,D Padikkal,impact_player,15.0,0.0,Batted only
+1527689,2,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player,26.0,0.0,Batted only
+1527690,2,1,Sunrisers Hyderabad,JD Unadkat,TM Head,impact_player,0.0,18.0,Bowled only
+1527690,2,11,Punjab Kings,N Wadhera,YS Chahal,impact_player,14.0,0.0,Batted only
+1527691,2,1,Chennai Super Kings,AJ Hosein,A Mhatre,impact_player,0.0,12.0,Bowled only
+1527691,2,13,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,10.0,0.0,Batted only
+1527692,1,17,Lucknow Super Giants,GF Linde,A Badoni,impact_player,10.0,18.0,Batted and bowled
+1527692,1,17,Gujarat Titans,M Shahrukh Khan,Mohammed Siraj,impact_player,0.0,0.0,Neither
+1527693,2,1,Royal Challengers Bengaluru,Rasikh Salam,TH David,impact_player,0.0,17.0,Bowled only
+1527693,2,13,Mumbai Indians,SE Rutherford,M Markande,impact_player,31.0,0.0,Batted only
+1529264,2,1,Sunrisers Hyderabad,Sakib Hussain,TM Head,impact_player,0.0,24.0,Bowled only
+1529264,2,1,Rajasthan Royals,V Suryavanshi,Sandeep Sharma,impact_player,1.0,0.0,Batted only
+1529265,2,1,Kolkata Knight Riders,FH Allen,CV Varun,impact_player,3.0,0.0,Batted only
+1529265,2,1,Chennai Super Kings,AJ Hosein,A Mhatre,impact_player,0.0,24.0,Bowled only
+1529266,1,17,Lucknow Super Giants,GF Linde,A Badoni,impact_player,7.0,7.0,Batted and bowled
+1529266,2,1,Royal Challengers Bengaluru,V Kohli,Suyash Sharma,impact_player,34.0,0.0,Batted only
+1529267,2,1,Mumbai Indians,AM Ghazanfar,SA Yadav,impact_player,0.0,24.0,Bowled only
+1529268,2,7,Kolkata Knight Riders,CV Varun,A Raghuvanshi,impact_player,0.0,24.0,Bowled only
+1529268,2,20,Gujarat Titans,M Shahrukh Khan,M Prasidh Krishna,impact_player,2.0,0.0,Batted only
+1529269,1,20,Royal Challengers Bengaluru,Rasikh Salam,D Padikkal,impact_player,0.0,24.0,Bowled only
+1529269,2,1,Delhi Capitals,KK Nair,Mukesh Kumar,impact_player,5.0,0.0,Batted only
+1529270,1,18,Sunrisers Hyderabad,LS Livingstone,TM Head,impact_player,5.0,0.0,Batted only
+1529270,2,2,Chennai Super Kings,A Mhatre,Gurjapneet Singh,impact_player,13.0,0.0,Batted only
+1529271,1,16,Kolkata Knight Riders,A Raghuvanshi,CV Varun,impact_player,19.0,0.0,Batted only
+1529271,2,6,Rajasthan Royals,Yash Raj Punja,V Suryavanshi,impact_player,0.0,24.0,Bowled only
+1529272,1,17,Lucknow Super Giants,Himmat Singh,Mohsin Khan,impact_player,1.0,0.0,Batted only
+1529272,2,1,Punjab Kings,Vijaykumar Vyshak,N Wadhera,impact_player,0.0,24.0,Bowled only
+1529273,2,1,Mumbai Indians,Ashwani Kumar,SE Rutherford,impact_player,0.0,24.0,Bowled only
+1529273,2,8,Gujarat Titans,R Tewatia,M Prasidh Krishna,impact_player,11.0,0.0,Batted only
+1529274,2,1,Sunrisers Hyderabad,D Madushanka,TM Head,impact_player,0.0,24.0,Bowled only
+1529274,2,16,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,10.0,0.0,Batted only
+1529275,1,16,Rajasthan Royals,SB Dubey,YBK Jaiswal,impact_player,11.0,0.0,Batted only
+1529275,2,10,Lucknow Super Giants,Himmat Singh,Prince Yadav,impact_player,15.0,0.0,Batted only
+1529276,1,18,Mumbai Indians,DV Malewar,AM Ghazanfar,impact_player,1.0,0.0,Batted only
+1529276,1,19,Chennai Super Kings,AJ Hosein,Kartik Sharma,impact_player,2.0,24.0,Batted and bowled
+1529277,2,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player,0.0,12.0,Bowled only
+1529277,2,1,Royal Challengers Bengaluru,JG Bethell,Suyash Sharma,impact_player,10.0,0.0,Batted only
+1529278,1,18,Punjab Kings,N Wadhera,YS Chahal,impact_player,15.0,0.0,Batted only
+1529278,2,1,Delhi Capitals,Auqib Nabi,P Nissanka,impact_player,0.0,12.0,Bowled only
+1529279,1,19,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player,5.0,0.0,Batted only
+1529279,2,1,Rajasthan Royals,Ravi Bishnoi,YBK Jaiswal,impact_player,0.0,6.0,Bowled only
+1529280,1,5,Chennai Super Kings,SN Khan,Urvil Patel,impact_player,1.0,0.0,Batted only
+1529281,1,12,Lucknow Super Giants,Himmat Singh,Mohsin Khan,impact_player,10.0,0.0,Batted only
+1529281,2,7,Kolkata Knight Riders,CV Varun,A Raghuvanshi,impact_player,0.0,24.0,Bowled only
+1529282,1,3,Delhi Capitals,Abishek Porel,SU Parakh,impact_player,33.0,0.0,Batted only
+1529282,2,1,Royal Challengers Bengaluru,JG Bethell,Suyash Sharma,impact_player,11.0,0.0,Batted only
+1529283,2,4,Punjab Kings,Harpreet Brar,Priyansh Arya,impact_player,0.0,24.0,Bowled only
+1529283,2,15,Rajasthan Royals,SB Dubey,Yash Raj Punja,impact_player,12.0,0.0,Batted only
+1529284,1,20,Sunrisers Hyderabad,Aniket Verma,Sakib Hussain,impact_player,0.0,0.0,Neither
+1529284,2,8,Mumbai Indians,SN Thakur,R Minz,impact_player,0.0,0.0,Neither
+1529285,1,15,Royal Challengers Bengaluru,VR Iyer,JG Bethell,impact_player,15.0,0.0,Batted only
+1529285,2,11,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player,17.0,0.0,Batted only
+1529286,2,1,Rajasthan Royals,TU Deshpande,SB Dubey,impact_player,0.0,24.0,Bowled only
+1529287,2,6,Mumbai Indians,Raghu Sharma,R Minz,impact_player,0.0,24.0,Bowled only
+1529287,2,6,Chennai Super Kings,Kartik Sharma,Mukesh Choudhary,impact_player,40.0,0.0,Batted only
+1529288,2,1,Kolkata Knight Riders,FH Allen,VG Arora,impact_player,13.0,0.0,Batted only
+1529288,2,8,Sunrisers Hyderabad,Sakib Hussain,Aniket Verma,impact_player,0.0,18.0,Bowled only
+1529289,1,18,Punjab Kings,Vijaykumar Vyshak,N Wadhera,impact_player,3.0,24.0,Batted and bowled
+1529289,2,15,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player,6.0,0.0,Batted only
+1529290,2,1,Lucknow Super Giants,M Siddharth,MR Marsh,impact_player,0.0,24.0,Bowled only
+1529290,2,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player,44.0,0.0,Batted only
+1529291,1,12,Delhi Capitals,Sameer Rizvi,KK Nair,impact_player,24.0,0.0,Batted only
+1529292,1,17,Punjab Kings,Priyansh Arya,YS Chahal,impact_player,3.0,0.0,Batted only
+1529292,2,1,Sunrisers Hyderabad,Harsh Dubey,TM Head,impact_player,0.0,12.0,Bowled only
+1529293,2,1,Lucknow Super Giants,MP Yadav,Himmat Singh,impact_player,0.0,24.0,Bowled only
+1529293,2,11,Royal Challengers Bengaluru,TH David,Suyash Sharma,impact_player,17.0,0.0,Batted only
+1529294,1,19,Kolkata Knight Riders,FH Allen,CV Varun,impact_player,47.0,0.0,Batted only
+1529294,2,1,Delhi Capitals,Kuldeep Yadav,Ashutosh Sharma,impact_player,0.0,18.0,Bowled only
+1529295,1,15,Rajasthan Royals,V Suryavanshi,Yash Raj Punja,impact_player,16.0,0.0,Batted only
+1529295,2,3,Gujarat Titans,R Sai Kishore,R Tewatia,impact_player,0.0,6.0,Bowled only
+1529296,1,20,Lucknow Super Giants,Avesh Khan,JP Inglis,impact_player,0.0,24.0,Bowled only
+1529296,2,17,Chennai Super Kings,PR Veer,Mukesh Choudhary,impact_player,12.0,0.0,Batted only
+1529297,1,16,Royal Challengers Bengaluru,D Padikkal,Suyash Sharma,impact_player,11.0,0.0,Batted only
+1529297,2,1,Mumbai Indians,Raghu Sharma,RG Sharma,impact_player,0.0,0.0,Neither
+1529298,1,18,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,10.0,0.0,Batted only
+1529298,2,1,Punjab Kings,Yash Thakur,Shashank Singh,impact_player,0.0,24.0,Bowled only
+1529299,2,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player,0.0,18.0,Bowled only
+1529299,2,1,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player,4.0,0.0,Batted only
+1529300,1,15,Royal Challengers Bengaluru,D Padikkal,JA Duffy,impact_player,27.0,0.0,Batted only
+1529300,2,1,Kolkata Knight Riders,SR Dubey,FH Allen,impact_player,0.0,13.0,Bowled only
+1529301,1,17,Punjab Kings,Vishnu Vinod,P Simran Singh,impact_player,8.0,0.0,Batted only
+1529301,2,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player,26.0,0.0,Batted only
+1529302,2,1,Chennai Super Kings,Gurjapneet Singh,S Dube,impact_player,0.0,18.0,Bowled only
+1529302,2,1,Lucknow Super Giants,JP Inglis,Prince Yadav,impact_player,32.0,0.0,Batted only
+1529303,2,1,Kolkata Knight Riders,M Pathirana,FH Allen,impact_player,0.0,8.0,Bowled only
+1529303,2,19,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player,4.0,0.0,Batted only
+1529304,1,19,Punjab Kings,MP Stoinis,YS Chahal,impact_player,25.0,0.0,Batted only
+1529304,2,4,Royal Challengers Bengaluru,Rasikh Salam,D Padikkal,impact_player,0.0,24.0,Bowled only
+1529305,1,17,Rajasthan Royals,MD Shanaka,SB Dubey,impact_player,8.0,18.0,Batted and bowled
+1529305,2,19,Delhi Capitals,Ashutosh Sharma,Mukesh Kumar,impact_player,5.0,0.0,Batted only
+1529306,2,1,Chennai Super Kings,Mukesh Choudhary,Kartik Sharma,impact_player,0.0,24.0,Bowled only
+1529306,2,1,Sunrisers Hyderabad,TM Head,Sakib Hussain,impact_player,6.0,0.0,Batted only
+1529307,1,19,Rajasthan Royals,V Suryavanshi,Yash Raj Punja,impact_player,38.0,0.0,Batted only
+1529307,2,1,Lucknow Super Giants,DS Rathi,JP Inglis,impact_player,0.0,24.0,Bowled only
+1529308,1,18,Kolkata Knight Riders,FH Allen,CV Varun,impact_player,5.0,0.0,Batted only
+1529308,2,1,Mumbai Indians,AM Ghazanfar,RG Sharma,impact_player,0.0,24.0,Bowled only
+1529309,2,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player,0.0,6.0,Bowled only
+1529309,2,3,Chennai Super Kings,Kartik Sharma,Gurjapneet Singh,impact_player,15.0,0.0,Batted only
+1529310,1,16,Royal Challengers Bengaluru,TH David,Suyash Sharma,impact_player,7.0,0.0,Batted only
+1529310,2,1,Sunrisers Hyderabad,HV Patel,S Arora,impact_player,0.0,24.0,Bowled only
+1529311,1,16,Punjab Kings,MP Stoinis,YS Chahal,impact_player,0.0,0.0,Neither
+1529311,2,1,Lucknow Super Giants,DS Rathi,JP Inglis,impact_player,0.0,18.0,Bowled only
+1529312,1,18,Rajasthan Royals,RA Jadeja,SB Dubey,impact_player,11.0,12.0,Batted and bowled
+1529312,2,1,Mumbai Indians,RG Sharma,Raghu Sharma,impact_player,4.0,0.0,Batted only
+1529313,2,1,Delhi Capitals,Kuldeep Yadav,KL Rahul,impact_player,0.0,24.0,Bowled only
+1535462,1,20,Gujarat Titans,R Tewatia,K Khejroliya,impact_player,43.0,0.0,Batted only
+1535462,2,12,Royal Challengers Bengaluru,R Shepherd,JA Duffy,impact_player,0.0,6.0,Bowled only
+1535463,1,17,Sunrisers Hyderabad,Salil Arora,PP Hinge,impact_player,21.0,0.0,Batted only
+1535463,1,20,Rajasthan Royals,SS Mishra,YBK Jaiswal,impact_player,3.0,14.0,Batted and bowled
+1535464,1,18,Gujarat Titans,R Tewatia,Mohammed Siraj,impact_player,9.0,0.0,Batted only
+1535464,2,1,Rajasthan Royals,TU Deshpande,YBK Jaiswal,impact_player,0.0,18.0,Bowled only
+1535465,1,15,Royal Challengers Bengaluru,VR Iyer,JA Duffy,impact_player,16.0,0.0,Batted only
+1535465,2,1,Gujarat Titans,M Prasidh Krishna,R Tewatia,impact_player,0.0,6.0,Bowled only
